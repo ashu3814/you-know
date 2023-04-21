@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    padding: 10px;
+    margin: 0px;
+}
+
+.typo {
+    margin-left: 65px;
+}
+
+.bg-container {
+    background-color: pink;
+    color: navy;
+}
+
+.icon {
+    font-size: 80px;
+    text-align: center;
+}
+
+.border-circle {
+    border-radius: 100px;
+    border: 5px solid navy;
+    padding-top: 30px;
+    height: 150px;
+    width: 150px;
+}
+
+.icon-title {
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: center;
+}
+
+.profile-details-title {
+    border: 5px solid black;
+    border-top: none;
+    border-left: none;
+    font-weight: bold;
+    width: 100%;
+}
+
+.profile-details-address {
+    border-bottom: 5px solid black;
+    width: 100%;
+}
+
+.skills-container {
+    border: 5px solid black;
+    border-left: none;
+    width: 100%;
+}
+
+.awards-container {
+    border: 5px solid black;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+}
+
+.skill-title {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.interest-item {
+    background-color: navy;
+    color: pink;
+}
+
+.interest-title {
+    text-align: center;
+}
+
+.heading {
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.year {
+    font-size: 16px;
+    width: 100px;
+}
+
+.education-details {
+    border-top: 5px solid black;
+    width: 100%;
+}
